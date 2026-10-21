@@ -1,0 +1,13 @@
+# Python / Flask
+__pycache__/
+*.py[cod]
+*$py.class
+instance/
+
+# Database SQLite (Agar data tidak ikut terunggah)
+*.db
+*.sqlite3
+
+# Environment Variables (SANGAT PENTING: Melindungi API Key Gemini)
+.env
+.env.local
